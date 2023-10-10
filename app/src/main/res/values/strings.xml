@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Sustain</string>
+    <string name="msg_sign_up">Don\'t have an account? <u>Sign up</u></string>
+    <string name="msg_login">Already have an account? <u>Login</u></string>
+    <string name="feed">Feed</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="action">Action</string>
+    <string name="challenges">Challenges</string>
+
+    <!-- ========== SignUp ========== -->
+    <string name="msg_empty_email">Email cannot be empty </string>
+    <string name="msg_empty_user_name">User name cannot be empty</string>
+    <string name="msg_empty_password">Password cannot be empty </string>
+    <string name="msg_empty_phone_number">Phone number name cannot be empty</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_user_name">Username</string>
+    <string name="hint_phone_number">Phone number</string>
+    <string name="hint_password">Password</string>
+    <string name="txt_terms_and_conditions">accept all terms and conditions</string>
+    <string name="btn_register">Register</string>
+    <string name="txt_or">OR</string>
+    <string name="txt_register_with">Register With</string>
+
+    <!-- ========== Upload New Post ========== -->
+    <string name="btn_log_Action">Log Action</string>
+    <string name="title_food_and_drink">Food &amp; Drink</string>
+    <string name="title_transport">Transport</string>
+    <string name="title_water">Water</string>
+    <string name="title_energy">Energy</string>
+    <string name="title_exercise">Exercise</string>
+    <string name="title_recycling">Recycling</string>
+    <string name="title_meatless">Meatless Meal</string>
+    <string name="des_meatless_meal">Meatless meals are not just tasty  they are also kind to the planet, so dig in and feel good about what you are eating!</string>
+    <string name="title_paper_vs_plastic">Paper vs Plastic</string>
+    <string name="des_paper">Say goodbye to plastic and hello to paper using paper bags for shopping is an easy way to reduce waste and make a difference for the environment.</string>
+    <string name="title_source">Source Local</string>
+    <string name="des_source">Support your local farmers and the planet by buying fresh produce from the farmers market – it is a tasty way to make a difference!</string>
+    <string name="title_cary">Cary Your Own</string>
+    <string name="des_cary">Ditch the disposable straws and cutlery – be the coolest eco-warrior around by carrying your own metal straw and cutlery wherever you go</string>
+    <string name="title_share_ride">Share a Ride</string>
+    <string name="des_share_ride">Why ride solo when you can carpool and save the planet? Together, we can make a difference on the road!</string>
+    <string name="title_cycle">Cycle to Town</string>
+    <string name="des_cycle">Get a leg up on the competition – and the environment – by cycling to your destination! It is good for your health and the planets health.</string>
+    <string name="title_walk">Walk to Work</string>
+    <string name="des_walk">Leave your car behind and put one foot in front of the other – walking to work is good for your health and the planets health</string>
+    <string name="title_plan">Plan a Journey</string>
+    <string name="des_plan">Why sit in traffic when you can take public transport and save the planet? Plan your journey and leave a smaller carbon footprint behind</string>
+    <string name="title_switch_off">Switch it Off</string>
+    <string name="des_switch_off">Turn off the lights, save the Earth.. or just save on your electric bill, whichever you prefer.</string>
+    <string name="title_read_instead">Read Instead</string>
+    <string name="des_read_instead">Save energy and feed your brain by curling up with a good book instead of turning on the TV!</string>
+    <string name="title_smarter">Smarter is Better</string>
+    <string name="des_smarter">Stay cool and save energy with a smart thermostat – its like having your own personal temperature genie!</string>
+    <string name="title_wash_cold">Wash Cold</string>
+    <string name="des_wash_cold">Washing at a colder temperature is not just good for your clothes, its also good for the planet – its a win-win for all!</string>
+    <string name="title_save_flush">Save a Flush</string>
+    <string name="des_save_flush">Every flush counts – save water (and money) by only flushing when its really necessary!</string>
+    <string name="title_make_quick">Make it Quick</string>
+    <string name="des_make_quick">Get in, get clean, get out – quick showers not only save water, but they will also help you get out the door faster in the morning!</string>
+    <string name="title_turn_knob">Turn the Knob</string>
+    <string name="des_turn_knob">Tap into your inner conservationist – turn off the taps when you are not using water and save a drop (or two) for the planet!</string>
+    <string name="title_buy_barrel">Buy a Barrel</string>
+    <string name="des_buy_barrel">Think outside the spout – a rain barrel is a great way to collect and conserve water (and save a buck or two on your water bill).</string>
+    <string name="title_walk_walk">Walk Walk Walk</string>
+    <string name="des_walk_walk">Take a walk on the green side – walking to exercise is good for your health, the planets health, and your wallet (no gas needed!).</string>
+    <string name="title_gym">En-route Gym</string>
+    <string name="des_gym">Sweat it out for the planet – walk to the gym instead of driving and get a workout for your body and the environment!</string>
+    <string name="title_cary_bottle">Carry A Bottle </string>
+    <string name="des_cary_bottle">Stay hydrated and save the planet – ditch disposable water bottles and carry your own reusable bottle instead!</string>
+    <string name="title_free_weight">Free Weights</string>
+    <string name="des_free_weight">Pump up your environmental impact – use free weights instead of machines at the gym and save energy (and get a better workout too!).</string>
+    <string name="title_batteries">Batteries</string>
+    <string name="title_plastic">Plastic</string>
+    <string name="title_glass">Glass</string>
+    <string name="title_cardboard">Cardboard</string>
+    <string name="title_electronic">Electronic</string>
+    <string name="title_paper">Paper</string>
+    <string name="title_metal">Metal</string>
+    <string name="title_other">Other</string>
+    <string name="msg_des_empty">Description can not be empty.</string>
+
+    <!-- ========== Feed ========== -->
+
+    <string name="action_comment">Post</string>
+    <string name="title_add_comment">Add a comment</string>
+    <string name="hint_add_comment">Enter your Comment</string>
+    <string name="msg_comment_empty">Comment can not be empty.</string>
+    <string name="title_all_comment">All Comment</string>
+    <string name="title_follow">Follow</string>
+    <string name="title_following">Following</string>
+    <string name="title_follower">Follower</string>
+    <string name="title_unfollow">UnFollow</string>
+    <string name="title_add_challenge">Add a Challenge</string>
+
+
+    <!-- ========== Article ========== -->
+    <string name="title_article">Article Title</string>
+    <string name="msg_article_empty">Article Title can not be empty.</string>
+
+    <!-- ========== Add challenge ========== -->
+    <string name="msg_title_empty">Title can not be empty.</string>
+    <string name="msg_time_range_empty">Time range can not be empty.</string>
+    <string name="msg_invite_follower">Invite at least one follower.</string>
+    <string name="title_category">Select Category</string>
+    <string name="msg_category_empty">Category can not be empty.</string>
+    <string name="title_invite">Invitation</string>
+
+    <!-- ========== logout ========== -->
+    <string name="title_signOut">SignOut</string>
+    <string name="txt_logout_confirmation">Are you sure you want to sign out and close the application?</string>
+
+    <string name="msg_paid">You have to buy the subscription in order to proceed.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_search">Search</string>
+
+</resources>

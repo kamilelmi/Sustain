@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="10dp"
+        android:orientation="vertical"
+        android:background="@drawable/bg_edittext"
+        android:layout_margin="10dp"
+        >
+
+        <TextView
+            android:id="@+id/tvChallengeTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Running challenge"
+            android:textColor="@color/white"
+            android:layout_toEndOf="@id/ivAvatar"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/tvChallengeDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is ranodm description of challenge to see how it looks. Run 10 KM each day for 7 days."
+            android:textColor="@color/white"
+            android:layout_toEndOf="@id/ivAvatar"
+            android:textSize="14sp"
+            android:layout_marginTop="5dp"
+            />
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</layout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341153526406",
+    "project_id": "sustain-511b8",
+    "storage_bucket": "sustain-511b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341153526406:android:fa2d18cc9df8110b4a9707",
+        "android_client_info": {
+          "package_name": "com.sustain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341153526406-3urqpbv1abg82ii37j74h24r7p8b403t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCA7hmCrWrLAUh1axPpcmpq2oeRnN09g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341153526406-3urqpbv1abg82ii37j74h24r7p8b403t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
