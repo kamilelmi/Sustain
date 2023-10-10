@@ -5,4 +5,4 @@
 
 # Google and Facebook sign-in auths require sha-256 fingerprints to be added in firebase console so app will crash if you click it if your key has not been added
 
-# Product of Kamil Elmi
+# Product of Kamil Elmi © Kamil Elmi (kamilelmi@gmail.com)
